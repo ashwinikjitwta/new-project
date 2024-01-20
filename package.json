@@ -2,7 +2,7 @@
   "name": "basicsnippets",
   "displayName": "Basic Snippets",
   "description": "A Collection of diffrent html snippets",
-  "version": "1.0.1",
+  "version": "8.5.6",
   "engines": {
     "vscode": "^1.85.0"
   },
