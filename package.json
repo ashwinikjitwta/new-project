@@ -1,0 +1,25 @@
+{
+  "name": "basicsnippets",
+  "displayName": "Basic Snippets",
+  "description": "A Collection of diffrent html snippets",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashwinikjitwta/new-project"
+  },
+  "icon": "icon.jpg",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
