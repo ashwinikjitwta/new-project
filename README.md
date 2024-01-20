@@ -63,3 +63,11 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+## updating version
+
+updated with the npm version from 8.5.5 to 8.5.6
+
+## Installation process
+
+* Go to the visual studio marketplace and search for basic snippets and click on install. 
