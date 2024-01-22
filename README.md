@@ -66,7 +66,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## updating version
 
-updated with the npm version from 8.5.5 to 8.5.7
+updated with the npm version from 8.5.5 to 8.5.8
 
 ## Installation process
 
